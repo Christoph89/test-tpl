@@ -1,0 +1,18 @@
+{
+  "name": "{{name}}",
+  "version": "0.0.0",
+  "description": "@@todo add description",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Christoph89/{{name}}.git"
+  },
+  "author": "chrike89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christoph89/{{name}}/issues"
+  },
+  "homepage": "https://github.com/Christoph89/{{name}}"
+}
